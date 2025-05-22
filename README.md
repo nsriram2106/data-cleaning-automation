@@ -13,8 +13,8 @@ Step 5: Install Required Libraries
 Once activated, install Streamlit and other dependencies:
 pip install streamlit pandas matplotlib seaborn scikit-learn
 
-Structure Your Project
-Your project should be structured like this:
+Structure of the Project
+
 📂 PythonProject3
 │── 📜 app.py                                # Main Streamlit app
 │── 📜 data_processing.py     # Data Preprocessing Code
